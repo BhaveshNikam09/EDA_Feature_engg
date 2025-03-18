@@ -50,8 +50,4 @@ average : Prediction target column [int]
 It is an regression problem where given a set of features we need to predict whether that person is prone to heart diseases or not.
 
 ## Performace Metric
-Since it is an classification problem we will use r2 score , rmse and mse
-
-
-
->>>>>>> c1bc476 (first commit)
+Since it is an Regression problem we will use r2 score , rmse and mse
